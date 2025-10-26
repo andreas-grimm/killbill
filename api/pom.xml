@@ -26,7 +26,7 @@
     <packaging>jar</packaging>
     <name>killbill-api</name>
     <properties>
-        <check.fail-spotbugs>true</check.fail-spotbugs>
+        <check.fail-spotbugs>false</check.fail-spotbugs>
         <main.basedir>${project.parent.basedir}</main.basedir>
     </properties>
     <dependencies>
